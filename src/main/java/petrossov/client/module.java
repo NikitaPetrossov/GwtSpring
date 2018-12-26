@@ -16,7 +16,6 @@ import java.util.logging.Logger;
 
 /**
  * Entry point classes define <code>onModuleLoad()</code>.
- * 777
  */
 public class module implements EntryPoint {
 
